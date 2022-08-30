@@ -1,0 +1,63 @@
+body {
+    background-color: honeydew;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.profile-pic1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+h1 {
+    font-family: 'sacramento', cursive;
+    font-size: 5rem;
+    margin: 100px;
+    color: #66bfbf;
+    line-height: 2;
+}
+h2 {
+    font-family: 'montserrat', sans-serif;
+}
+h3 {
+    font-family: 'montserrat', sans-serif;
+    color: #11999e;
+}
+.top-cloud {
+    position: absolute;
+    right: 340px;
+    top: 30px;
+
+}
+.top-container {
+    padding: 20px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 180px;
+    left: 100px;
+    margin: 200px;
+}
+.computer-img {
+    height: 300px;
+    
+}
+.chillies-img {
+    height: 200px;
+    border-radius: 200px;
+}
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.title {
+    margin-top: 50px;
+    font-size: 2rem;
+    color: #66bfbf;
+    font-weight: normal;
+    
+}
+.btn {
+    color: #11999e;
+}
